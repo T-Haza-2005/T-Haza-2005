@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @T-Haza-2005
+- 👀 I’m interested in Programming and Computer Science
+- 🌱 I’m currently learning PHP and Azure
+- 💞️ I’m looking to collaborate on Tech and Programming Projects
+- 📫 You can reach me via email which is tahahaza436@gmail.com
